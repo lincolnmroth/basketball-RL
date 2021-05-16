@@ -4,8 +4,10 @@ Robot Arm learning basketball using NFQ and Q-Learning
 
 ![basketball](https://user-images.githubusercontent.com/14778866/118385135-6e1fae00-b5da-11eb-9277-74c7b2fef7be.gif)
 
-##Methods
-###Q-Learning (Q Table)
+## Methods
+
+### Q-Learning (Q Table)
+
 Q-learning is slightly rudimentary but it had quite successful results. It uses a table of all possible states and uses the following equuation to explore and discover an optimal policy:
 
 ![image](https://user-images.githubusercontent.com/14778866/118385001-1f254900-b5d9-11eb-99ad-3978cb74d18c.png)
