@@ -1,6 +1,8 @@
 # Reinforcement Learning Basketball
 Robot Arm learning basketball using NFQ and Q-Learning
-![Python - Figure 1](https://user-images.githubusercontent.com/14778866/118384969-b50ca400-b5d8-11eb-852b-d26a0e4771f8.gif)
+
+
+![basketball](https://user-images.githubusercontent.com/14778866/118385135-6e1fae00-b5da-11eb-9277-74c7b2fef7be.gif)
 
 ##Methods
 ###Q-Learning (Q Table)
