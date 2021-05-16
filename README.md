@@ -13,7 +13,7 @@ Q-learning is slightly rudimentary but it had quite successful results. It uses 
 ![image](https://user-images.githubusercontent.com/14778866/118385001-1f254900-b5d9-11eb-99ad-3978cb74d18c.png)
 
 
-###NFQ (Neural Fitted Q-Iteration)
+### NFQ (Neural Fitted Q-Iteration)
 NFQ uses a neural network to learn the Q values.
 
 First a bunch of data is created using a random policy. Then a 2-layer neural net using PyTorch and a RPROP optimizer is created. Training was done target seen in the algorithm below.
